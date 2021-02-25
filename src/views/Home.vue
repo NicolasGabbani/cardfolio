@@ -3,13 +3,12 @@
     <Cloud />
 
     <div class="sunshine animate__animated animate__fadeIn animate__delay-1s">
-      <img :src="require('@/assets/rayon.png')" alt="" />
+      <img :src="require('@/assets/rayon.png')" alt="Rayon de soleil" />
     </div>
-    <h1 class="nickname animate__animated animate__flipInY">Nakin</h1>
-    <span class="animate__animated animate__flipInX animate__delay-1s">Le développeur web de qualité !</span>
+    <h1 class="nickname animate__animated animate__flipInY">Krankhaus</h1>
+    <span class="animate__animated animate__flipInX animate__delay-1s">Votre OTP Soraka</span>
 
     <Social />
-
     <Stars />
   </div>
 </template>
