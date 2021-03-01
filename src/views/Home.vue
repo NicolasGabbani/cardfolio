@@ -6,7 +6,7 @@
       <img :src="require('@/assets/rayon.png')" alt="Rayon de soleil" />
     </div>
     <h1 class="nickname animate__animated animate__flipInY">Krankhaus</h1>
-    <span class="animate__animated animate__flipInX animate__delay-1s">Votre OTP Soraka</span>
+    <span class="animate__animated animate__flipInX animate__delay-1s">Votre E-Girl préféré</span>
 
     <Social />
     <Stars />
